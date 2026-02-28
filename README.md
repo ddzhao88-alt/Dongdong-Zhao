@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Demo
 Run on the included demo files:
 ```bash
-python integration_tally.py --csv demo/sample_info.csv --fastq demo/test1.fastq --excel demo_output.xlsx
+python integration_tally.py --csv demo/sample_info.csv --fastq demo/test1.fastq.gz --excel demo_output.xlsx
 ```
 
 Expected output:
